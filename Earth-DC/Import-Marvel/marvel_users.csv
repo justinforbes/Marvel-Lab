@@ -1,6 +1,8 @@
 firstname,lastname,username,identity,department,province,password,ou
 Thor,Odenson,thor,Domain Admins,Avenger,Asgard,GodofLightning1!,"CN=Users,DC=marvel,DC=local"
 
+Jeff,TheLandShark,jeff,Domain Admins,Avenger,Earth,NomNomNom1!,"CN=Users,DC=marvel,DC=local"
+
 Loki, ,loki,LocalAdmins,Villain,Asgard,Mischief$,"CN=Users,DC=marvel,DC=local"
 
 Carol,Danvers,cmarvel,Users,Avenger,Earth,HateKree!,"CN=Users,DC=marvel,DC=local"
